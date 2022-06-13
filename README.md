@@ -1,6 +1,6 @@
 # Introduction:
 
-This Repo demonstare a basic Web App built in Flask that has below features - 
+This Repo demonstrate a basic Web App built in Flask that has below features - 
 1. Accept both a GET and a POST request to the / HTTP endpoint. 
 2. Enable DEBUG mode based on Flask Environment.
 3. Unit test cases to test the application api functionalities.
